@@ -3,8 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "tilemapgame/tinydungeon_tilesheet.tsx",
+    "activeFile": "tilemapgame/GAME_level.tmx",
     "expandedProjectPaths": [
+        ".",
+        "tiled",
+        "tilemapgame",
+        "tiled/tilemapgame"
     ],
     "fileStates": {
         "tiled/tilemapgame/game_level02.tmx": {
@@ -22,7 +26,7 @@
             "scale": 2.1653320312499997,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 194.42745681684934,
+                "x": 255.84990754521266,
                 "y": -128.15586524150996
             }
         },
@@ -35,7 +39,7 @@
             }
         },
         "tilemapgame/tinydungeon_tilesheet.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 2,
             "scaleInEditor": 0.75
         },
         "tilemapgame/untitled.tmx": {
@@ -53,13 +57,17 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
-        "tilemapgame/tinydungeon_tilesheet.tsx"
+        "tilemapgame/tinydungeon_tilesheet.tsx",
+        "tilemapgame/GAME_level.tmx",
+        "tilemapgame/game_level02.tmx"
     ],
     "project": "gametilemap.tiled-project",
     "recentFiles": [
+        "tilemapgame/tinydungeon_tilesheet.tsx",
+        "tilemapgame/game_level02.tmx",
+        "tilemapgame/GAME_level.tmx",
         "tiled/tilemapgame/game_level02.tmx",
-        "tilemapgame/untitled.tmx",
-        "tilemapgame/tinydungeon_tilesheet.tsx"
+        "tilemapgame/untitled.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
